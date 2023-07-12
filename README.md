@@ -1,7 +1,9 @@
 # macropad
 
 ## Introduction
-A low-budget macro numeric keypad based on ESP32 MCU and CH9329 USB HID emulation chip.
+A low-budget macro numeric keypad based on ESP32 MCU and CH9329 USB HID emulation chip.  
+
+<img src="pcb/3dview_front.png" alt="Image of PCB" width="500"/>
 
 ## Functions
 ### Keys and Layout
