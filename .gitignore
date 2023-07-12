@@ -56,3 +56,6 @@ dkms.conf
 
 # VSCode
 .vscode
+
+# Build files for ESP-IDF
+build/
